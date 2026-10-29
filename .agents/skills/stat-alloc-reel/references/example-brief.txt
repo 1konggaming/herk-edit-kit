@@ -1,0 +1,66 @@
+=== STAT ALLOC REEL BRIEF ===
+# Example: the Butcher/Battle Blacksmith guide this skill was built from.
+
+[VIDEO]
+Background video: blacksmith-gameplay.mp4
+Music: video
+BPM: auto
+Logo and frame already in video: yes
+Logo file:
+Pace: normal
+Panel: frosted
+
+[HOOK]
+STOP WASTING
+STAT POINTS ON
+YOUR BLACKSMITH!
+Icon: hammers
+
+[HEADER]
+Title: BUTCHER/BATTLE BLACKSMITH
+Subtitle: *"PROPER"* STATS ALLOCATION WHILE LEVELING
+Level bar: BASE LV
+Max level: 99
+
+[LEVELS]
+LEVEL 1-10
+DEX + 20 = no missing early mobs
+STR + 15 = solid early damage
+AGI + 5 = slightly smoother attacks
+
+LEVEL 10-40
+Note: Same logic as all melee starts: accuracy first, then damage.
+STR + 40 = faster farming (you are melee DPS)
+DEX + 30 = consistent hit rate on mobs
+AGI + 30 = smoother grinding, less potion usage
+
+LEVEL 40-70
+Note: Merchants benefit a lot from stable farming speed early
+STR + 65 = strong raw damage (main scaling stat)
+AGI + 50 = good ASPD without buffs
+DEX + 40 = reliable hit vs mid/high flee mobs
+VIT + 20 = survivability during mobbing
+
+LEVEL 70-90
+AGI + 65 = smooth ASPD for consistent DPS
+STR + 80 = STR scaling = biggest damage increase
+VIT + 40 = tankiness for harder maps
+DEX + 45 = consistent accuracy
+
+LEVEL 90-99
+STR + 90
+AGI + 70
+VIT + 52
+DEX + 50
+
+[SUMMARY]
+Title: THIS GIVES:
+- High auto-attack DPS *(STR + AGI synergy)*
+- Strong hit consistency *(DEX 50)*
+- Good tankiness for PvM *(VIT 50)*
+- Smooth grinding without relying on skills
+- Classic Battle/Butcher Blacksmith playstyle
+
+[CTA]
+FOLLOW FOR MORE
+*RAGNAROK* GUIDES.

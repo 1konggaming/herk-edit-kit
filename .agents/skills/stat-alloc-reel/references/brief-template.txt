@@ -1,0 +1,61 @@
+=== STAT ALLOC REEL BRIEF ===
+# Fill in after each colon. Delete any line you don't need.
+# Lines that start with "# " are notes for you; they are ignored.
+# Put *stars* around words you want in the yellow accent color.
+
+[VIDEO]
+# Your clean gameplay video (no text on it). Vertical 9:16 is best.
+Background video:
+# "video" uses the video's own sound, or write the name of a music file.
+Music: video
+# "auto" detects the beat. Or write the BPM if you know it, e.g. 130.
+BPM: auto
+# yes = your video already shows the gold frame and logo.
+# no  = add the gold frame (and your logo, if you attach one below).
+Logo and frame already in video: yes
+Logo file:
+# fast / normal / slow  (how quickly the stat rows appear)
+Pace: normal
+# frosted / light / none  (the dark glass panel behind the guide)
+Panel: frosted
+# The yellow used for the hook, stat names, and starred words.
+Accent color: #FFE11A
+
+[HOOK]
+# 1 to 3 short lines. The last word slams in.
+LINE 1
+LINE 2
+LINE 3
+# hammers / swords / shield / staff / none
+Icon: none
+
+[HEADER]
+Title:
+Subtitle:
+# The bar under the header fills as each level band opens. Write "off" to hide it.
+Level bar: BASE LV
+Max level: 99
+
+[LEVELS]
+# One block per level band. Start each block with its label.
+# A stat line is:  STAT + NUMBER = reason   (the "= reason" part is optional)
+# Add "Note:" under a label for a one-line tip next to it (optional).
+LEVEL 1-10
+Note:
+STAT + 0 = reason
+STAT + 0 = reason
+
+LEVEL 10-40
+STAT + 0 = reason
+STAT + 0 = reason
+
+[SUMMARY]
+# Optional. One line per item, each starting with "- ".
+Title: THIS GIVES:
+- item
+- item
+
+[CTA]
+# 1 or 2 short lines shown at the end.
+FOLLOW FOR MORE
+*RAGNAROK* GUIDES.
