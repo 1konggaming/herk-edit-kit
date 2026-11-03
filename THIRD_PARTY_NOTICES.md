@@ -11,6 +11,9 @@ brand assets remain unchanged; their inclusion does not grant third-party rights
   The upstream Apache license is included in licenses/HYPERFRAMES-LICENSE.
 - GSAP is installed from npm; its own license applies. See the license files in
   node_modules/gsap and https://gsap.com/community/standard-license/.
+- The stat-alloc-reel skill bundles the Anton and Montserrat fonts (latin subsets)
+  in .claude/skills/stat-alloc-reel/fonts under the SIL Open Font License 1.1;
+  the license texts sit beside the font files.
 - Some library styles reference Google Fonts. Font licenses remain with their
   publishers. Install and preserve applicable licenses when localizing fonts.
 - Vox, Kallaway, and Infinite are aesthetic reference names. These templates are

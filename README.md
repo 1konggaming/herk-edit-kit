@@ -138,6 +138,18 @@ The skill includes a measured breakdown of the reel it was built from, a chapter
 technique library, a HUD template, and Node tools to analyze a reference video,
 measure a music take's beat grid, splice it onto the cut grid, and premix sound effects.
 
+## Make a game stat-guide reel (STAT ALLOC REEL)
+
+> Use stat-alloc-reel with my gameplay at [local path] and this brief: [paste the
+> filled-in brief]. Render a draft for review.
+
+Codex: `$stat-alloc-reel`. Claude Code: `/stat-alloc-reel`.
+Fill in the [brief template](.claude/skills/stat-alloc-reel/references/brief-template.txt)
+(hook, header, level bands of `STAT + NUMBER = reason` lines, summary, and CTA);
+see the [example brief](.claude/skills/stat-alloc-reel/references/example-brief.txt).
+The skill detects the music's beat, lands every row on it, auto-fits the layout to
+1080x1920, and checks the text fit in a headless browser before rendering.
+
 ## Existing examples and migration
 
 This is the main Herk Edit Kit repository. The newer video-pipeline kit has been
